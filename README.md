@@ -30,7 +30,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=21acs5sngq2xkehugtvqkwmuy&cover_image=true&theme=default" />
 </a>
 <a href="https://github.com/Th1nhNg0/Th1nhNg0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th1nhNg0&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th1nhNg0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
 
 
