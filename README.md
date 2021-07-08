@@ -23,9 +23,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 ## &#x1f4c8; My Stats
-<a href="https://github.com/Th1nhNg0/Th1nhNg0">
+<div >
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th1nhng0" />
-</a>
+</div>
 
 <a href="https://github.com/Th1nhNg0/Th1nhNg0">
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=21acs5sngq2xkehugtvqkwmuy&count=3" />
