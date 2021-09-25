@@ -30,6 +30,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/Th1nhNg0/Th1nhNg0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th1nhNg0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
+
+
 ![snake gif](https://github.com/Th1nhNg0/Th1nhNg0/blob/output/github-contribution-grid-snake.gif)
 
 
