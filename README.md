@@ -8,7 +8,7 @@ My name is Thinh Ngo and I'm a fullstack developer. I'm from Vietnam, living in 
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [th1nhng0.vercel.app](https://th1nhng0.vercel.app) 
+Apart from coding, I also maintain a blog - you can find my articles on my website at [thinhcorner.com](https://th1nhng0.vercel.app) 
 
 ## 🔧 Technologies & Tools
 
