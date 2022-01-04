@@ -24,13 +24,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 ## &#x1f4c8; My Stats
-<a href="https://github.com/Th1nhNg0/Th1nhNg0">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th1nhng0" />
-</a>
-
-<a href="https://github.com/Th1nhNg0/Th1nhNg0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th1nhNg0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
-</a>
+![](https://github.com/th1nhng0/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/th1nhng0/github-stats/blob/master/generated/languages.svg)
 
 
 ![snake gif](https://github.com/Th1nhNg0/Th1nhNg0/blob/output/github-contribution-grid-snake.svg)
