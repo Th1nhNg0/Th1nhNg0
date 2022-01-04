@@ -2,7 +2,6 @@
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![](https://komarev.com/ghpvc/?username=th1nhng0)
 
 My name is Thinh Ngo and I'm a fullstack developer. I'm from Vietnam, living in Ho Chi Minh. You can contact me via  <a href="mailto:thinhngow@gmail.com"> thinhngow@gmail.com </a>
 
