@@ -24,8 +24,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 ## &#x1f4c8; My Stats
-![](https://github.com/th1nhng0/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/th1nhng0/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/Th1nhNg0/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Th1nhNg0/github-stats/blob/master/generated/languages.svg)
 
 
 ![snake gif](https://github.com/Th1nhNg0/Th1nhNg0/blob/output/github-contribution-grid-snake.svg)
