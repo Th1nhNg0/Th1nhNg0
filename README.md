@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Thinh Ngo and I'm a fullstack developer. I'm from Vietnam, living in Ho Chi Minh. You can contact me via  <a href="mailto:thinhngow@gmail.com"> thinhngow@gmail.com </a>
+My name is Thinh Ngo. I'm from Vietnam, living in Ho Chi Minh. You can contact me via  <a href="mailto:thinhngow@gmail.com"> thinhngow@gmail.com </a>
 
 ## &#x270d; Blog & Writing
 
