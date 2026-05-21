@@ -7,7 +7,7 @@ My name is Thinh Ngo. I'm from Vietnam, living in Ho Chi Minh. You can contact m
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [thinhcorner.com](https://th1nhng0.vercel.app) 
+Apart from coding, I also maintain a blog - you can find my articles on my website at [thinhcorner.com](thinhcorner.com) 
 
 
 ## &#x1f4c8; My Stats
